@@ -64,7 +64,7 @@ The Innovation Catalyst Agent is an advanced AI system that discovers breakthrou
 ```
 Clone the repository
 
-git clone https://github.com/yourusername/innovation-catalyst.git
+git clone https://github.com/Abhisheksuwalka/innovation-catalyst.git
 cd innovation-catalyst
 Create virtual environment
 
@@ -282,10 +282,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **spaCy**: Natural language processing
 
 ## 📞 Support
-
-- **Documentation**: [Full docs](https://your-docs-site.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/innovation-catalyst/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/innovation-catalyst/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Abhisheksuwalka/innovation-catalyst/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Abhisheksuwalka/innovation-catalyst/discussions)
 - **Email**: support@innovation-catalyst.ai
 
 ---
