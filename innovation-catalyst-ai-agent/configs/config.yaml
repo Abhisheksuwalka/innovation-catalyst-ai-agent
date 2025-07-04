@@ -1,0 +1,19 @@
+model:
+  # Use a powerful instruction-following model available via the Inference API
+  llm_model: "meta-llama/Meta-Llama-3-8B-Instruct" 
+  
+  # we can also use other capable models like:
+  # llm_model: "mistralai/Mixtral-8x7B-Instruct-v0.1"
+  # llm_model: "google/gemma-2-9b-it"
+
+processing:
+  chunk_size: 500
+  chunk_overlap: 50
+
+connection:
+  max_connections: 20
+  similarity_threshold_min: 0.3
+  similarity_threshold_max: 0.9
+
+agent:
+  max_iterations: 10
